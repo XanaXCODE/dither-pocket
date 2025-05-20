@@ -1,0 +1,1 @@
+C:\ditherpocket\android\app\build\intermediates\cxx\RelWithDebInfo\4ui6lns5\obj\x86_64

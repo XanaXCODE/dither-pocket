@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "RNCImageEditorSpec_autolinked_build",
+		"source" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni"
+	}
+}

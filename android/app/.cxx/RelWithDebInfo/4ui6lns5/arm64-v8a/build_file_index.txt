@@ -1,0 +1,7 @@
+C:\ditherpocket\node_modules\@react-native-camera-roll\camera-roll\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\ditherpocket\node_modules\@react-native-community\image-editor\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\ditherpocket\node_modules\@react-native-community\slider\android\src\main\jni\CMakeLists.txt
+C:\ditherpocket\node_modules\react-native-image-picker\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\ditherpocket\node_modules\react-native-permissions\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\ditherpocket\node_modules\react-native-vector-icons\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\ditherpocket\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt

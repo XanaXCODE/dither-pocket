@@ -1,0 +1,244 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "RNCImageEditorSpec_autolinked_build/CMakeFiles/react_codegen_RNCImageEditorSpec.dir/./RNCImageEditorSpec-generated.cpp.o"
+		},
+		{
+			"path" : "RNCImageEditorSpec_autolinked_build/CMakeFiles/react_codegen_RNCImageEditorSpec.dir/./react/renderer/components/RNCImageEditorSpec/ComponentDescriptors.cpp.o"
+		},
+		{
+			"path" : "RNCImageEditorSpec_autolinked_build/CMakeFiles/react_codegen_RNCImageEditorSpec.dir/./react/renderer/components/RNCImageEditorSpec/EventEmitters.cpp.o"
+		},
+		{
+			"path" : "RNCImageEditorSpec_autolinked_build/CMakeFiles/react_codegen_RNCImageEditorSpec.dir/./react/renderer/components/RNCImageEditorSpec/Props.cpp.o"
+		},
+		{
+			"path" : "RNCImageEditorSpec_autolinked_build/CMakeFiles/react_codegen_RNCImageEditorSpec.dir/./react/renderer/components/RNCImageEditorSpec/RNCImageEditorSpecJSI-generated.cpp.o"
+		},
+		{
+			"path" : "RNCImageEditorSpec_autolinked_build/CMakeFiles/react_codegen_RNCImageEditorSpec.dir/./react/renderer/components/RNCImageEditorSpec/ShadowNodes.cpp.o"
+		},
+		{
+			"path" : "RNCImageEditorSpec_autolinked_build/CMakeFiles/react_codegen_RNCImageEditorSpec.dir/./react/renderer/components/RNCImageEditorSpec/States.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_compile_options",
+			"target_include_directories",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D__BIONIC_NO_PAGE_SIZE_MACRO -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-DLOG_TAG=\\\"ReactNative\\\""
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-fexceptions"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-frtti"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-std=c++20"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 0,
+					"fragment" : "-DFOLLY_NO_CONFIG=1"
+				},
+				{
+					"backtrace" : 0,
+					"fragment" : "-DFOLLY_HAVE_CLOCK_GETTIME=1"
+				},
+				{
+					"backtrace" : 0,
+					"fragment" : "-DFOLLY_USE_LIBCPP=1"
+				},
+				{
+					"backtrace" : 0,
+					"fragment" : "-DFOLLY_CFG_NO_COROUTINES=1"
+				},
+				{
+					"backtrace" : 0,
+					"fragment" : "-DFOLLY_MOBILE=1"
+				},
+				{
+					"backtrace" : 0,
+					"fragment" : "-DFOLLY_HAVE_RECVMMSG=1"
+				},
+				{
+					"backtrace" : 0,
+					"fragment" : "-DFOLLY_HAVE_PTHREAD=1"
+				},
+				{
+					"backtrace" : 0,
+					"fragment" : "-DFOLLY_HAVE_XSI_STRERROR_R=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni/."
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni/react/renderer/components/RNCImageEditorSpec"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "C:/Users/jptes/.gradle/caches/8.13/transforms/72cde7dc85b5006383f56c98fcfedfa5/transformed/fbjni-0.7.0/prefab/modules/fbjni/include"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "C:/Users/jptes/.gradle/caches/8.13/transforms/48de17ae001fd5f1bcfd4007338aaa12/transformed/react-android-0.79.2-release/prefab/modules/jsi/include"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "C:/Users/jptes/.gradle/caches/8.13/transforms/48de17ae001fd5f1bcfd4007338aaa12/transformed/react-android-0.79.2-release/prefab/modules/reactnative/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Users/jptes/AppData/Local/Android/Sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
+			}
+		}
+	],
+	"id" : "react_codegen_RNCImageEditorSpec::@10a91b932da059722293",
+	"name" : "react_codegen_RNCImageEditorSpec",
+	"paths" : 
+	{
+		"build" : "RNCImageEditorSpec_autolinked_build",
+		"source" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni/RNCImageEditorSpec-generated.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni/react/renderer/components/RNCImageEditorSpec/ComponentDescriptors.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni/react/renderer/components/RNCImageEditorSpec/EventEmitters.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni/react/renderer/components/RNCImageEditorSpec/Props.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni/react/renderer/components/RNCImageEditorSpec/RNCImageEditorSpecJSI-generated.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni/react/renderer/components/RNCImageEditorSpec/ShadowNodes.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "C:/ditherpocket/node_modules/@react-native-community/image-editor/android/build/generated/source/codegen/jni/react/renderer/components/RNCImageEditorSpec/States.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

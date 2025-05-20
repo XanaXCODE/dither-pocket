@@ -1,0 +1,1 @@
+C:\ditherpocket\android\app\build\intermediates\cxx\Debug\530165f1\obj\arm64-v8a
